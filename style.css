@@ -1,0 +1,62 @@
+.titulo1{
+    background-color: blueviolet;
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: 'Dancing Script', cursive;
+}
+.titulo2{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 1.5rem;
+    color:blueviolet
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+    left: 10px;
+    position: relative;
+    background-color: blueviolet;
+    border: fuchsia;
+}
+button{
+    background-color: blueviolet;
+    color: white;
+    font-size: 1.5rem;
+}
+body{
+    background-image: url(https://img.freepik.com/vector-premium/conjunto-notas-musicales-silueta-negra-aislada-sobre-fondo-blanco-ilustracion-vectorial_325164-1073.jpg?w=2000);
+}
+.lo1{
+    font-family: 'Shadows Into Light', cursive;
+}
+.boton{
+    background-color: blueviolet;
+    color: white;
+    font-size: 1.5rem;
+}
+.table{
+    color: blueviolet;
+    background-color: blanchedalmond;
+    border-collapse: collapse;
+}
+.table td{
+    border: 1px;
+    text-align: center;
+}
+.table th:hover{
+    color:black;
+    background-color: grey;
+}
+.table tr{
+    color: purple;
+    background-color: antiquewhite;
+}
+caption{
+    font-family: 'Dancing Script', cursive;
+    font-size: 3rem;
+}
+.table td:hover{
+    color:fuchsia;
+    background-color: purple;
+}
